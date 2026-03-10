@@ -1,0 +1,8 @@
+# dependencies
+backend\__pycache__
+
+# virtual env
+backend\venv
+
+#env variables
+.env
